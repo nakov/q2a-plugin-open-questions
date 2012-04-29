@@ -2,7 +2,7 @@
 
 /*
 	Plugin Name: Open Questions
-	Plugin URI: http://www.nakov.com
+	Plugin URI: http://www.nakov.com/blog/2012/04/30/open-questions-plugin-for-q2a-questions2answer-display-unanswered-non-closed-questions/
 	Plugin Description: Displays in a page all "open" questions (without answer and not closed)
 	Plugin Version: 1.0
 	Plugin Date: 2012-29-04
